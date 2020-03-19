@@ -1,0 +1,3 @@
+﻿  dynamic mass 3.cpp
+C:\Users\Артем\source\repos\dynamic mass\dynamic mass 3\dynamic mass 3.cpp(19,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  dynamic mass 3.vcxproj -> C:\Users\Артем\source\repos\dynamic mass\Debug\dynamic mass 3.exe
